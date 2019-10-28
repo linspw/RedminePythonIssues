@@ -1,5 +1,4 @@
 from redminelib import Redmine
-from pprint import pprint
 from openpyxl import Workbook
 from openpyxl.styles import Font, Color, Alignment
 import datetime
